@@ -1,1 +1,15 @@
-post_id,platform,timestamp,username,raw_text,likes,comments,shares,url
+post_id,platform,timestamp,username,raw_text,likes,comments,shares,views,url
+PH-R001,Product Hunt,,Rico,"very great I used Jasper boss mode for a while and it always delivered great output for outline and short content. However I prefer others tools for long form content generation.",,,,,https://www.producthunt.com/products/jasper-6
+PH-R002,Product Hunt,,Fazi,"A fantastic tool that accelerates the writing process, saving valuable brainpower by handling initial drafts.",,,,,https://www.producthunt.com/products/jasper-6
+PH-R003,Product Hunt,,Will,"What a good SEO tool",,,,,https://www.producthunt.com/products/jasper-6
+PH-R004,Product Hunt,,AKANKSHA YADAV,"Jasper is still one of the most reliable AI writing tools for marketing teams. I like the quality and consistency it offers for blogs, ads, and social content, especially when speed matters. It’s a solid productivity booster for content workflows. Would be interesting to see more agentic features like campaign planning, multi-channel publishing, and performance-driven content optimization.",,,,,https://www.producthunt.com/products/jasper-6
+PH-R005,Product Hunt,,Dan Chadney,"It's one of the first and most well-known AI writing assistants. It's got a ton of features that make it a great tool to have at your disposal when writing literally anything. They have done well to adapt to a rapidly changing marketplace and the new brand voice features really make it stand out from other writing tools out there.",,,,,https://www.producthunt.com/products/jasper-6
+PH-R006,Product Hunt,,Tayler Cusick Hollman,"Jasper is a great way to expedite the writing process—I really appreciate how it helps save me brain power by taking care of the first draft for me.",,,,,https://www.producthunt.com/products/jasper-6
+PH-R007,Product Hunt,,Giang Ha Tran,"There are lots of updates, which is good but the hard to navigate, should improve user experience",,,,,https://www.producthunt.com/products/jasper-6
+YT-R001,YouTube,2023-03-22,Kripesh Adwani,"Jasper AI Review हिन्दी (2023) 🔥 – Is It Worth The Money? 🤔",151,17,,10567,https://youtu.be/uvF6Jh6bTtk
+YT-R002,YouTube,2023-11-15,David Utke,"Jasper Ai Review - 1 Year Later Breakdown of the Pros and Cons",85,,,6794,https://www.youtube.com/watch?v=ERb9it1Jxc8
+YT-R003,YouTube,2023-06-15,Elegant Themes,"Jasper AI: An Honest Review & Beginner's Guide (2024)",779,,,88662,https://www.youtube.com/watch?v=SqI3CvKV4j8
+YT-R004,YouTube,2025-10-18,Get365AI,"Jasper AI Review 2025 | Best AI Copywriter?",1000,,,36886,https://www.youtube.com/watch?v=VHbUHlnP5KI
+YT-R005,YouTube,,,,"Jasper AI Review: Boost Your Writing Efficiency with this Copywriting Tool",13,2,,1700,https://youtu.be/vL1JGxxbomo
+YT-R006,YouTube,2025-06-10,Jasper,"Marketing, Reimagined with Jasper",82,,,230666,https://www.youtube.com/watch?v=4GO82RerfcY
+
